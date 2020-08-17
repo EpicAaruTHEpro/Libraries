@@ -1,2 +1,2 @@
-# Libraries
-Shows the bounce off and collision algorithm libraries with an example. To access the libraries go to the file Libraries.js
+# p5.play-boilerplate
+Boiler plate for p5.play
